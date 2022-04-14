@@ -5,7 +5,11 @@ Desenvolvimento Web - Trabalho 03 - React
   - Igor Hilgemberg - Ra:17162426
   - Josmario da Silva Junior - Ra:18015526
   - Eduardo Patrick - Ra:17219226
-  - 
+ 
+## Framework para a criação da API RET
+
+  - SprigBoot
+ 
 ## Descrição do Projeto
   Terceiro trabalho da disciplina de Desenvolvimento Web utilizando Spring boot, React e Javascript para a implementação de uma API REST que possibilita listar e adicionar novos produtos a um sistema de supermercado.
 
@@ -19,7 +23,14 @@ Desenvolvimento Web - Trabalho 03 - React
  Exclusão de todos os produtos
  
 ## Requisitos
-  Acesso a um sistema de Banco de Dados como o MySQL onde nesse caso foi usado o MYSQL.
+  Banco de dados MYSQL
+  
+  Gerenciador de pacotes MAVEN
+  
+  Node.js
+  
+  Gerenciador de pacotes NPM
+  
 
 ## Descrições da api e da interface
   Páginas do sistema:
